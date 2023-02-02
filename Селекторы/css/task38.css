@@ -1,0 +1,48 @@
+.hunter {
+    padding: 10px;
+    margin: 10px;
+    background: #08c;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.hunter:hover {
+    background: #0af;
+}
+
+.bbb.zzz {
+    color: red;
+}
+h2.bbb.zzz {
+    color:chocolate;
+}
+#elem.bbb {
+    color:yellowgreen;
+}
+#elem1.bbb.zzz {
+    color:blueviolet;
+}
+h3#elem2.bbb {
+    color:darkblue;
+}
+h2.xxx {
+    color: rgb(255, 0, 212);
+}
+div .yyy {
+    color: rgb(255, 157, 0);
+}
+.bbb .yyy {
+    color: red;
+}
+.bbb .yyy.xxx {
+    color: rgb(76, 0, 255);
+}
+.bbb.yyy .xxx {
+    color: rgb(106, 0, 255);
+}
+.bbb .zzz .xxx {
+    color: rgb(255, 0, 106);
+}
+
