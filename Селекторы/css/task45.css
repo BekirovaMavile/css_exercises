@@ -1,0 +1,34 @@
+.hunter {
+    padding: 10px;
+    margin: 10px;
+    background: #08c;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.hunter:hover {
+    background: #0af;
+}
+g[title]{
+    color: darkgreen;
+}
+p[title]{
+    color: dodgerblue;
+}
+p[title = hey]{
+color: rgb(136, 24, 216);
+}
+a[href^="http://"]{
+    color: deeppink;
+}
+a[href*=".html"] {
+    color:rgb(182, 64, 64);
+}
+p[title~=hi] {
+    color: rgb(72, 216, 24);
+}
+[class|="top-top"]{
+    color: darkslateblue;
+}
