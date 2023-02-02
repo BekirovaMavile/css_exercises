@@ -1,0 +1,45 @@
+.hunter {
+    padding: 10px;
+    margin: 10px;
+    background: #08c;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+}
+.hunter:hover {
+    background: #0af;
+}
+
+.nnn p{
+    color: darkcyan;
+    text-align:right;
+}
+#block h2{
+    text-align: center;
+    color: darkblue;
+}
+.bbb{
+    color: mediumpurple;
+}
+
+#block11 .xxx{
+    color: yellowgreen;
+}
+
+p.bane{
+    color: seagreen;
+    text-align: right;
+}
+
+#block12 p.five{
+    color: blue;
+}
+
+p.one, h2.two{
+    color: crimson;
+}
+
+.last h2.first{
+    color: tomato;
+}
