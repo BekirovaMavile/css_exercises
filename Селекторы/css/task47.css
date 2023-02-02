@@ -1,0 +1,40 @@
+.hunter {
+    padding: 10px;
+    margin: 10px;
+    background: #08c;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+}
+.hunter:hover {
+    background: #0af;
+}
+
+a {
+    color: red;
+}
+a:hover {
+    text-decoration: none;
+}
+
+a.two {
+    color: rgb(34, 213, 6);
+}
+a:hover.two {
+    text-decoration: none;
+}
+
+#block a.three {
+    color: rgb(60, 0, 255);
+}
+#block a.three:hover {
+    text-decoration: none;
+}
+
+.block a.four {
+    color:lightseagreen;
+}
+.block a.four:hover {
+    text-decoration: none;
+}
