@@ -1,0 +1,49 @@
+.hunter {
+    padding: 10px;
+    margin: 10px;
+    background: #08c;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.hunter:hover {
+    background: #0af;
+}
+
+#block h1, #block h2, #block h3 {
+    text-align: center;
+    color: darkblue;
+}
+#block h1 {
+    font-size: 35px;
+}
+#block h2 {
+    font-size: 25px;
+}
+#block h3 {
+    font-size: 16px;
+    color: rgb(205, 21, 21);
+}
+
+#block h1.one, #block h2.two{
+text-align: right;
+color: coral;
+}
+#block h1.one{
+    font-size: 30px;
+}
+#block h2.two{
+    font-size: 20px;
+}
+
+.xxx .kkk, .eee h2.yyy, #block11 h2{
+    text-align: center;
+color:mediumslateblue;
+}
+
+.three h1.four, .five{
+    text-align: right;
+    color: magenta;
+}
