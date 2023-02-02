@@ -1,0 +1,45 @@
+.hunter {
+    padding: 10px;
+    margin: 10px;
+    background: #08c;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+}
+.hunter:hover {
+    background: #0af;
+}
+
+li:first-child{
+    color: rgb(106, 201, 12);
+}
+li:last-child{
+    color: indianred;
+}
+li:nth-child(3){
+    color:mediumslateblue;
+}
+
+.two:nth-child(even){
+    color: seagreen;
+}
+.two:nth-child(odd){
+    color: blueviolet;
+}
+
+.three:nth-last-child(2){
+color: lightseagreen;
+}
+
+.four:only-child{
+    color: darkred;
+}
+
+.empty:empty{
+    border: 1px solid blueviolet;
+}
+li.empty{
+    border: 1px solid black;
+    margin: 10px;
+}
