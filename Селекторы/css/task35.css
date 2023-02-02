@@ -1,0 +1,22 @@
+.hunter {
+    padding: 10px;
+    margin: 10px;
+    background: #08c;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+}
+.hunter:hover {
+    background: #0af;
+}
+
+#elem1 {
+    color:red;
+}
+#elem2 {
+    color: green;
+}
+#elem3 {
+    color: blue;
+}
