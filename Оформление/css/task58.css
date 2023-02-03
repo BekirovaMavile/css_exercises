@@ -1,0 +1,19 @@
+.hunter {
+    padding: 10px;
+    margin: 10px;
+    background: #08c;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.hunter:hover {
+    background: #0af;
+}
+body{
+    background-image: url(../images/bg.png);
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+    background-position: top right;
+}
