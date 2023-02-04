@@ -1,0 +1,33 @@
+.hunter {
+    padding: 10px;
+    margin: 10px;
+    background: #08c;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+}
+.hunter:hover {
+    background: #0af;
+}
+
+.one{
+    border: 1px solid red;
+    text-align: justify;
+    padding: 1px 15px 20px 25px;
+    width: 300px;
+}
+
+.two {
+    border: 1px solid red;
+    text-align: justify;
+    padding: 40px 20px;
+    width: 300px;
+}
+
+.three {
+    border: 1px solid red;
+    text-align: justify;
+    padding: 1px 40px 20px;
+    width: 300px;
+}
