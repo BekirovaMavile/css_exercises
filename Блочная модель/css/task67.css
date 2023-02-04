@@ -1,0 +1,27 @@
+.hunter {
+    padding: 10px;
+    margin: 10px;
+    background: #08c;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+}
+.hunter:hover {
+    background: #0af;
+}
+
+#elem1 {
+    width: 100px;
+    height: 100px;
+    background: #b28df7;
+    margin-bottom: 20px;
+}
+
+#elem2 {
+    width: 100px;
+    height: 100px;
+    background: #b28df7;
+    border: 10px solid rgb(0, 0, 128);
+    box-sizing: border-box;
+}
