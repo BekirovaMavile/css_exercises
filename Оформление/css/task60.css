@@ -1,0 +1,24 @@
+.hunter {
+    padding: 10px;
+    margin: 10px;
+    background: #08c;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+}
+.hunter:hover {
+    background: #0af;
+}
+
+.lower {
+    list-style-type:lower-alpha;
+}
+
+.greek {
+    list-style-type:lower-greek;
+}
+
+.upper {
+    list-style-type:upper-alpha;
+}
