@@ -1,0 +1,38 @@
+.hunter {
+    padding: 10px;
+    margin: 10px;
+    background: #08c;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+}
+.hunter:hover {
+    background: #0af;
+}
+
+p{
+    width: 160px;
+    height: 160px;
+    border: 1px solid blueviolet;
+}
+b {
+    width: 160px;
+    height: 160px;
+    border: 1px solid blueviolet;
+}
+h2 {
+    width: 160px;
+    height: 160px;
+    border: 1px solid blueviolet;
+}
+i {
+    width: 160px;
+    height: 160px;
+    border: 1px solid blueviolet;
+}
+a {
+    width: 160px;
+    height: 160px;
+    border: 1px solid blueviolet;
+}
